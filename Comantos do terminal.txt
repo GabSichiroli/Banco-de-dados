@@ -1,0 +1,27 @@
+1. Como abrir o terminal?
+
+Windons+R e apos colocar o cmd
+
+2.Para navegar nas pastas:
+
+cd <nome da pasta(diretorio)>
+
+cd..<nome da pasta>
+
+3. Para criação de uma pasta:
+
+mkdir <pasta>
+
+4.Ver os diretorio
+
+dir
+
+5. Criar um arquivo
+
+echo <conteudo> <nome do arquivo>.<tipo de arquivo>
+encho <mais conteudo>> <nome do arquivo>.<tipo de arquivo>
+
+para ler o arquivo
+
+type <nome do arquivo>
+notepad <nome do arquivo>
