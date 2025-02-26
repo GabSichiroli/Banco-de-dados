@@ -1,1 +1,1 @@
-# Banco-de-dados
+BR: Estudo de bancos de dados.

@@ -1,0 +1,18 @@
+SQL é a linguagem é que comunica com todos os tipos de banco de dados RELACIONADOS, ele serve para fazer consutas, criar tabelas
+e categorias. Tudo que acessamos está num banco de dados, desde uma rede social até sua conta no banco.
+
+A síntese em SQL é muito parecida com o inglês, então por muitas vezes os comandos são mais simples de entender.
+
+Os bancos de dados relacionados são nada mais nada menos que tabelas.
+
+-> As linhas representam os itens e seu conjunto de caracteristicas
+-> As colunas representam as caracteristicas
+
+Síntese de comandos:
+
+Palavras -> String
+Numero inteiro -> Int 
+Numero real -> float 
+
+Chave Primaria: Não pode ter repitido
+
